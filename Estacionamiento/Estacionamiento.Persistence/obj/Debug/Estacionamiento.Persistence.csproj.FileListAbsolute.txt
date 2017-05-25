@@ -1,0 +1,60 @@
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll.config
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.xml
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.InitailModel.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded2.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded3.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded4.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded5.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll.config
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.InitailModel.resources
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded.resources
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded1.resources
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded2.resources
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded3.resources
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded4.resources
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded5.resources
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.InitailModel.resources
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded.resources
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded1.resources
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded2.resources
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded3.resources
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded4.resources
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.PriceAdded5.resources
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll.config
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.xml

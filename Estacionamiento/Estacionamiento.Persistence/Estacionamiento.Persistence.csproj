@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{238D9926-278D-4E28-A5A8-13723FE71857}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Estacionamiento.Persistence</RootNamespace>
+    <AssemblyName>Estacionamiento.Persistence</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities.Configuration\ArticuloConfiguration.cs" />
+    <Compile Include="Entities.Configuration\BeneficioConfiguration.cs" />
+    <Compile Include="Entities.Configuration\BoletaConfiguration.cs" />
+    <Compile Include="Entities.Configuration\ClienteConfiguration.cs" />
+    <Compile Include="Entities.Configuration\DistritoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\EmpleadoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\EventoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\GestionReclamoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\ParkeoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\PublicidadConfiguration.cs" />
+    <Compile Include="Entities.Configuration\SedeEstacionamientoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TarjetaPrepagoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoArticuloConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoBeneficioConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoClienteConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoEmpleadoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoEstacionamientoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoEventoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoPagoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\TipoVehiculoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\UsoEstacionamientoConfiguration.cs" />
+    <Compile Include="Entities.Configuration\ValetParkingConfiguration.cs" />
+    <Compile Include="Entities.Configuration\VehiculoConfiguration.cs" />
+    <Compile Include="EstacionamientoBDContext.cs" />
+    <Compile Include="Migrations\201705111701112_InitailModel.cs" />
+    <Compile Include="Migrations\201705111701112_InitailModel.Designer.cs">
+      <DependentUpon>201705111701112_InitailModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201705112104012_PriceAdded.cs" />
+    <Compile Include="Migrations\201705112104012_PriceAdded.Designer.cs">
+      <DependentUpon>201705112104012_PriceAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201705120050419_PriceAdded1.cs" />
+    <Compile Include="Migrations\201705120050419_PriceAdded1.Designer.cs">
+      <DependentUpon>201705120050419_PriceAdded1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201705120142394_PriceAdded2.cs" />
+    <Compile Include="Migrations\201705120142394_PriceAdded2.Designer.cs">
+      <DependentUpon>201705120142394_PriceAdded2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201705121746378_PriceAdded3.cs" />
+    <Compile Include="Migrations\201705121746378_PriceAdded3.Designer.cs">
+      <DependentUpon>201705121746378_PriceAdded3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201705121921028_PriceAdded4.cs" />
+    <Compile Include="Migrations\201705121921028_PriceAdded4.Designer.cs">
+      <DependentUpon>201705121921028_PriceAdded4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201705121921275_PriceAdded5.cs" />
+    <Compile Include="Migrations\201705121921275_PriceAdded5.Designer.cs">
+      <DependentUpon>201705121921275_PriceAdded5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ArticuloRepository.cs" />
+    <Compile Include="Repositories\BeneficioRepository.cs" />
+    <Compile Include="Repositories\BoletaRepository.cs" />
+    <Compile Include="Repositories\ClienteRepository.cs" />
+    <Compile Include="Repositories\DistritoRepository.cs" />
+    <Compile Include="Repositories\EmpleadoRepository.cs" />
+    <Compile Include="Repositories\EventoRepository.cs" />
+    <Compile Include="Repositories\GestionReclamoRepository.cs" />
+    <Compile Include="Repositories\ParkeoRepository.cs" />
+    <Compile Include="Repositories\PublicidadRepository.cs" />
+    <Compile Include="Repositories\Repository.cs" />
+    <Compile Include="Repositories\SedeEstacionamientoRepository.cs" />
+    <Compile Include="Repositories\TarjetaPrepagoRepository.cs" />
+    <Compile Include="Repositories\TipoArticuloRepository.cs" />
+    <Compile Include="Repositories\TipoBeneficioRepository.cs" />
+    <Compile Include="Repositories\TipoClienteRepository.cs" />
+    <Compile Include="Repositories\TipoEmpleadoRepository.cs" />
+    <Compile Include="Repositories\TipoEstacionamientoRepository.cs" />
+    <Compile Include="Repositories\TipoEventoRepository.cs" />
+    <Compile Include="Repositories\TipoPagoRepository.cs" />
+    <Compile Include="Repositories\TipoVehiculoRepository.cs" />
+    <Compile Include="Repositories\UnityOfWork.cs" />
+    <Compile Include="Repositories\UsoEstacionamientoRepository.cs" />
+    <Compile Include="Repositories\ValetParkingRepository.cs" />
+    <Compile Include="Repositories\VehiculoRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Estacionamiento.Entities\Estacionamiento.Entities.csproj">
+      <Project>{78f667fd-3338-4539-aee6-28674a24f7e0}</Project>
+      <Name>Estacionamiento.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201705111701112_InitailModel.resx">
+      <DependentUpon>201705111701112_InitailModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705112104012_PriceAdded.resx">
+      <DependentUpon>201705112104012_PriceAdded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705120050419_PriceAdded1.resx">
+      <DependentUpon>201705120050419_PriceAdded1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705120142394_PriceAdded2.resx">
+      <DependentUpon>201705120142394_PriceAdded2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705121746378_PriceAdded3.resx">
+      <DependentUpon>201705121746378_PriceAdded3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705121921028_PriceAdded4.resx">
+      <DependentUpon>201705121921028_PriceAdded4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705121921275_PriceAdded5.resx">
+      <DependentUpon>201705121921275_PriceAdded5.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

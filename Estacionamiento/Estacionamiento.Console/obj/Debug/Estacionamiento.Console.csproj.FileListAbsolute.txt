@@ -1,0 +1,38 @@
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.xml
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe.config
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.dll.config
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.xml
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.exe
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe.config
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.dll.config
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.exe
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.pdb

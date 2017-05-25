@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78F667FD-3338-4539-AEE6-28674A24F7E0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Estacionamiento.Entities</RootNamespace>
+    <AssemblyName>Estacionamiento.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Articulo.cs" />
+    <Compile Include="Beneficio.cs" />
+    <Compile Include="Boleta.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Distrito.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="Evento.cs" />
+    <Compile Include="GestionReclamo.cs" />
+    <Compile Include="IRepositories\IArticuloRepository.cs" />
+    <Compile Include="IRepositories\IBeneficioRepository.cs" />
+    <Compile Include="IRepositories\IBoletaRepository.cs" />
+    <Compile Include="IRepositories\IClienteRepository.cs" />
+    <Compile Include="IRepositories\IDistritoRepository.cs" />
+    <Compile Include="IRepositories\IEmpleadoRepository.cs" />
+    <Compile Include="IRepositories\IEventoRepository.cs" />
+    <Compile Include="IRepositories\IGestionReclamoRepository.cs" />
+    <Compile Include="IRepositories\IParkeoRepository.cs" />
+    <Compile Include="IRepositories\IPublicidadRepository.cs" />
+    <Compile Include="IRepositories\IRepository.cs" />
+    <Compile Include="IRepositories\ISedeEstacionamientoRepository.cs" />
+    <Compile Include="IRepositories\ITarjetaPrepagoRepository.cs" />
+    <Compile Include="IRepositories\ITipoArticuloRepository.cs" />
+    <Compile Include="IRepositories\ITipoBeneficioRepository.cs" />
+    <Compile Include="IRepositories\ITipoClienteRepository.cs" />
+    <Compile Include="IRepositories\ITipoEmpleadoRepository.cs" />
+    <Compile Include="IRepositories\ITipoEstacionamientoRepository.cs" />
+    <Compile Include="IRepositories\ITipoEventoRepository.cs" />
+    <Compile Include="IRepositories\ITipoPagoRepository.cs" />
+    <Compile Include="IRepositories\ITipoVehiculoRepository.cs" />
+    <Compile Include="IRepositories\IUnityOfWork.cs" />
+    <Compile Include="IRepositories\IUsoEstacionamientoRepository.cs" />
+    <Compile Include="IRepositories\IValetParkingRepository.cs" />
+    <Compile Include="IRepositories\IVehiculoRepository.cs" />
+    <Compile Include="Parkeo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Publicidad.cs" />
+    <Compile Include="SedeEstacionamiento.cs" />
+    <Compile Include="TarjetaPrepago.cs" />
+    <Compile Include="TipoArticulo.cs" />
+    <Compile Include="TipoBeneficio.cs" />
+    <Compile Include="TipoCliente.cs" />
+    <Compile Include="TipoEmpleado.cs" />
+    <Compile Include="TipoEstacionamiento.cs" />
+    <Compile Include="TipoEvento.cs" />
+    <Compile Include="TipoPago.cs" />
+    <Compile Include="TipoVehiculo.cs" />
+    <Compile Include="UsoEstacionamiento.cs" />
+    <Compile Include="ValetParking.cs" />
+    <Compile Include="Vehiculo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

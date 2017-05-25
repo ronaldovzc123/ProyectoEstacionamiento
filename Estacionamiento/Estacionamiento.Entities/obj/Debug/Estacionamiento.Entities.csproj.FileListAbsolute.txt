@@ -1,0 +1,13 @@
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.dll
+c:\users\usuario\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.dll
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.pdb
+C:\Users\Adrian\Desktop\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.dll
+C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.pdb
