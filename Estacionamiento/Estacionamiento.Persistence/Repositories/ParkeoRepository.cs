@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class ParkeoRepository : Repository<Parkeo>, IParkeoRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public ParkeoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private ParkeoRepository()
-        {
-
-        }
-    }
+		public ParkeoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

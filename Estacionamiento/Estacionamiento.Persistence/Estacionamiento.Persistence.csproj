@@ -70,33 +70,9 @@
     <Compile Include="Entities.Configuration\ValetParkingConfiguration.cs" />
     <Compile Include="Entities.Configuration\VehiculoConfiguration.cs" />
     <Compile Include="EstacionamientoBDContext.cs" />
-    <Compile Include="Migrations\201705111701112_InitailModel.cs" />
-    <Compile Include="Migrations\201705111701112_InitailModel.Designer.cs">
-      <DependentUpon>201705111701112_InitailModel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705112104012_PriceAdded.cs" />
-    <Compile Include="Migrations\201705112104012_PriceAdded.Designer.cs">
-      <DependentUpon>201705112104012_PriceAdded.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705120050419_PriceAdded1.cs" />
-    <Compile Include="Migrations\201705120050419_PriceAdded1.Designer.cs">
-      <DependentUpon>201705120050419_PriceAdded1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705120142394_PriceAdded2.cs" />
-    <Compile Include="Migrations\201705120142394_PriceAdded2.Designer.cs">
-      <DependentUpon>201705120142394_PriceAdded2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705121746378_PriceAdded3.cs" />
-    <Compile Include="Migrations\201705121746378_PriceAdded3.Designer.cs">
-      <DependentUpon>201705121746378_PriceAdded3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705121921028_PriceAdded4.cs" />
-    <Compile Include="Migrations\201705121921028_PriceAdded4.Designer.cs">
-      <DependentUpon>201705121921028_PriceAdded4.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705121921275_PriceAdded5.cs" />
-    <Compile Include="Migrations\201705121921275_PriceAdded5.Designer.cs">
-      <DependentUpon>201705121921275_PriceAdded5.cs</DependentUpon>
+    <Compile Include="Migrations\201705261827306_InitialModel.cs" />
+    <Compile Include="Migrations\201705261827306_InitialModel.Designer.cs">
+      <DependentUpon>201705261827306_InitialModel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -137,26 +113,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201705111701112_InitailModel.resx">
-      <DependentUpon>201705111701112_InitailModel.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705112104012_PriceAdded.resx">
-      <DependentUpon>201705112104012_PriceAdded.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705120050419_PriceAdded1.resx">
-      <DependentUpon>201705120050419_PriceAdded1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705120142394_PriceAdded2.resx">
-      <DependentUpon>201705120142394_PriceAdded2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705121746378_PriceAdded3.resx">
-      <DependentUpon>201705121746378_PriceAdded3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705121921028_PriceAdded4.resx">
-      <DependentUpon>201705121921028_PriceAdded4.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705121921275_PriceAdded5.resx">
-      <DependentUpon>201705121921275_PriceAdded5.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201705261827306_InitialModel.resx">
+      <DependentUpon>201705261827306_InitialModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

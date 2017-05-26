@@ -13,7 +13,7 @@ namespace Estacionamiento.Persistence.Entities.Configuration
         public TipoClienteConfiguration()
         {
             ToTable("TipoCliente");
-            HasKey(cl => cl.TipoClienteID);
+            HasKey(cl => cl.TipoClienteId);
         }
     }
 }

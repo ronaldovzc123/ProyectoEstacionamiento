@@ -8,18 +8,10 @@ using System.Threading.Tasks;
 
 namespace Estacionamiento.Persistence.Repositories
 {
-    public class TipoEmpleadoRepository : Repository<TipoEmpleado>, ITipoEmpleadoRepository
-    {
-        private readonly EstacionamientoBDContext _Context;
-
-        public TipoEmpleadoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private TipoEmpleadoRepository()
-        {
-
-        }
-    }
+	public class TipoEmpleadoRepository : Repository<TipoEmpleado>, ITipoEmpleadoRepository
+	{
+		public TipoEmpleadoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

@@ -10,21 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class DistritoRepository : Repository<Distrito>, IDistritoRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public DistritoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private DistritoRepository()
-        {
-
-        }
-
-        public Distrito Get(int? id)
-        {
-            throw new NotImplementedException();
-        }
-    }
+		public DistritoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

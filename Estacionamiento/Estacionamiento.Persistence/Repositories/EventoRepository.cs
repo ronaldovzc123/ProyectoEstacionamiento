@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class EventoRepository : Repository<Evento>, IEventoRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public EventoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private EventoRepository()
-        {
-
-        }
-    }
+		public EventoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

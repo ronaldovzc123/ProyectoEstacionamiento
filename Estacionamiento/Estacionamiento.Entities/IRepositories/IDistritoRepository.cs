@@ -8,6 +8,5 @@ namespace Estacionamiento.Entities.IRepositories
 {
     public interface IDistritoRepository : IRepository<Distrito>
     {
-        Distrito Get(int? id);
     }
 }

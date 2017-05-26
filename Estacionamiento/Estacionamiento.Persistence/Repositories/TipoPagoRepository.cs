@@ -8,18 +8,10 @@ using System.Threading.Tasks;
 
 namespace Estacionamiento.Persistence.Repositories
 {
-    public class TipoPagoRepository : Repository<TipoPago>, ITipoPagoRepository
-    {
-        private readonly EstacionamientoBDContext _Context;
-
-        public TipoPagoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private TipoPagoRepository()
-        {
-
-        }
-    }
+	public class TipoPagoRepository : Repository<TipoPago>, ITipoPagoRepository
+	{
+		public TipoPagoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

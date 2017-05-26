@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class BeneficioRepository : Repository<Beneficio>, IBeneficioRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public BeneficioRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private BeneficioRepository()
-        {
-
-        }
-    }
+		public BeneficioRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

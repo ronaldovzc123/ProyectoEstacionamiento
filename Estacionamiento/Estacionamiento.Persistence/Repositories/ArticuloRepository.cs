@@ -8,20 +8,11 @@ using System.Threading.Tasks;
 
 namespace Estacionamiento.Persistence.Repositories
 {
-    public class ArticuloRepository : Repository<Articulo> , IArticuloRepository
-    {
-        private readonly EstacionamientoBDContext _Context;
+	public class ArticuloRepository : Repository<Articulo> , IArticuloRepository
+	{
+		public ArticuloRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
 
-        private ArticuloRepository()
-        {
-
-        }
-
-
-        public ArticuloRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-    }
+	}
 }

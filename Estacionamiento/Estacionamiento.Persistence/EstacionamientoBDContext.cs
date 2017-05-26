@@ -35,6 +35,11 @@ namespace Estacionamiento.Persistence
         public DbSet<ValetParking> ValetParking { get; set; }
         public DbSet<Vehiculo> Vehiculo { get; set; }
 
+		public EstacionamientoBDContext() : base("Estacionamiento")
+		{
+
+		}
+
        protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new ClienteConfiguration());

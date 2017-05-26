@@ -25,8 +25,6 @@ namespace Estacionamiento.Entities
         public Cliente()
         {
             Beneficio = new Beneficio();
-            TipoCliente = new TipoCliente();
-
             Reclamos = new List<GestionReclamo>();
             
         }

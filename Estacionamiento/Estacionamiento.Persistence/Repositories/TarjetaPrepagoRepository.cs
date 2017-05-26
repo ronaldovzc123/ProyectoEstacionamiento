@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class TarjetaPrepagoRepository : Repository<TarjetaPrepago>, ITarjetaPrepagoRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public TarjetaPrepagoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private TarjetaPrepagoRepository()
-        {
-
-        }
-    }
+		public TarjetaPrepagoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

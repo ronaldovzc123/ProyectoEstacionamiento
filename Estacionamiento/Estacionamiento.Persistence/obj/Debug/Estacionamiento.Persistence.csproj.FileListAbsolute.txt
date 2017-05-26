@@ -58,3 +58,17 @@ C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persist
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.pdb
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.xml
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll.config
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Persistence.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.Migrations.InitialModel.resources
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.csproj.GenerateResource.Cache
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Persistence\obj\Debug\Estacionamiento.Persistence.pdb

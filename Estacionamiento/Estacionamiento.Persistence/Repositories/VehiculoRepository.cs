@@ -8,18 +8,10 @@ using System.Threading.Tasks;
 
 namespace Estacionamiento.Persistence.Repositories
 {
-    public class VehiculoRepository : Repository<Vehiculo>, IVehiculoRepository
-    {
-        private readonly EstacionamientoBDContext _Context;
-
-        public VehiculoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private VehiculoRepository()
-        {
-
-        }
-    }
+	public class VehiculoRepository : Repository<Vehiculo>, IVehiculoRepository
+	{
+		public VehiculoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

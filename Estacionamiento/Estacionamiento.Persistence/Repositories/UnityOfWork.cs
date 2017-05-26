@@ -10,8 +10,6 @@ namespace Estacionamiento.Persistence.Repositories
     public class UnityOfWork : IUnityOfWork
     {
         private readonly EstacionamientoBDContext _Context;
-        private static UnityOfWork _Instance;
-        private static readonly object _Lock = new object();
 
         public IArticuloRepository Articulos { get; private set; }
 
@@ -59,11 +57,14 @@ namespace Estacionamiento.Persistence.Repositories
 
         public IVehiculoRepository Vehiculos { get; private set; }
 
+		public UnityOfWork()
+		{
 
+		}
         
-        private UnityOfWork()
+        public UnityOfWork(EstacionamientoBDContext context)
         {
-            _Context = new EstacionamientoBDContext();
+			_Context = context;
 
             Articulos = new ArticuloRepository(_Context);
             Beneficios = new BeneficioRepository(_Context);
@@ -88,25 +89,7 @@ namespace Estacionamiento.Persistence.Repositories
             UsosEstacionamiento = new UsoEstacionamientoRepository(_Context);
             ValetsParking = new ValetParkingRepository(_Context);
             Vehiculos = new VehiculoRepository(_Context);
-
-
         }
-
-        public static UnityOfWork Instance
-        {
-            get
-            {
-                lock(_Lock)
-                {
-                    if (_Instance == null)
-                        _Instance = new UnityOfWork();
-                }
-
-                return _Instance;
-            }
-        }
-       
-
 
         public void Dispose()
         {

@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class PublicidadRepository : Repository<Publicidad>, IPublicidadRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public PublicidadRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private PublicidadRepository()
-        {
-
-        }
-    }
+		public PublicidadRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

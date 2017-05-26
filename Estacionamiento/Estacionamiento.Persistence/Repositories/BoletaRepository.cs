@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class BoletaRepository : Repository<Boleta>, IBoletaRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public BoletaRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private BoletaRepository()
-        {
-
-        }
-    }
+		public BoletaRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

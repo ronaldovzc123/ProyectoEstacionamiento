@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class SedeEstacionamientoRepository : Repository<SedeEstacionamiento>, ISedeEstacionamientoRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public SedeEstacionamientoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private SedeEstacionamientoRepository()
-        {
-
-        }
-    }
+		public SedeEstacionamientoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

@@ -11,3 +11,7 @@ C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entitie
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.pdb
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.dll
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Entities\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Entities\obj\Debug\Estacionamiento.Entities.pdb

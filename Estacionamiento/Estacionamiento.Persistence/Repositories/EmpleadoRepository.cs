@@ -10,16 +10,8 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class EmpleadoRepository : Repository<Empleado>, IEmpleadoRepository
     {
-        private readonly EstacionamientoBDContext _Context;
-
-        public EmpleadoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private EmpleadoRepository()
-        {
-
-        }
-    }
+		public EmpleadoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
+	}
 }

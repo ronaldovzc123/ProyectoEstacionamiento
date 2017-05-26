@@ -36,3 +36,16 @@ C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.csprojResolveAssemblyReference.cache
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.exe
 C:\Users\usuario\Desktop\estacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe.config
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.exe
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Console.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.dll
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.pdb
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\Estacionamiento.Persistence.dll.config
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\bin\Debug\EntityFramework.xml
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.csprojResolveAssemblyReference.cache
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.exe
+C:\Users\fgome\Documents\Visual Studio 2017\Projects\USMP\ProyectoEstacionamiento\Estacionamiento\Estacionamiento.Console\obj\Debug\Estacionamiento.Console.pdb

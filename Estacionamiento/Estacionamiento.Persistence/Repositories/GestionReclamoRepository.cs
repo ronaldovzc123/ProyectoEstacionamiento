@@ -10,17 +10,9 @@ namespace Estacionamiento.Persistence.Repositories
 {
     public class GestionReclamoRepository : Repository<GestionReclamo>, IGestionReclamoRepository
     {
-        private readonly EstacionamientoBDContext _Context;
+		public GestionReclamoRepository(EstacionamientoBDContext context):base(context)
+		{
+		}
 
-        public GestionReclamoRepository(EstacionamientoBDContext context)
-        {
-            _Context = context;
-        }
-
-        private GestionReclamoRepository()
-        {
-
-        }
-
-    }
+	}
 }
