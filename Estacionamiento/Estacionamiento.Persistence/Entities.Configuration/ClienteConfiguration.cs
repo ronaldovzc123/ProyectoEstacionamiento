@@ -15,6 +15,8 @@ namespace Estacionamiento.Persistence.Entities.Configuration
             ToTable("Cliente");
             HasKey(cl => cl.ClienteID);
 
+
+
           
 
             //ida hasmany * , hasrequired 1, hasoptional 0..1
@@ -31,32 +33,11 @@ namespace Estacionamiento.Persistence.Entities.Configuration
 
             //HasRequired(cl=> cl.TarjetaPrepago)
 
-            HasMany(cl => cl.Reclamos)
-                .WithRequired( r=> r.Cliente)
-                .HasForeignKey( r=> r.ClienteID);
+            //HasMany(cl => cl.Reclamos)
+            //    .WithRequired( r=> r.Cliente)
+            //    .HasForeignKey( r=> r.ClienteID);
 
 
         }
-
-        //private object HasMany(Func<Cliente, ICollection<TTargetEntity>> func)
-        //{
-        //    throw new NotImplementedException();
-        //}
-
-       
-
-
-       // private object HasMany(Func<Cliente, ICollection<TTargetEntity>> func)
-        //{
-          //  throw new NotImplementedException();
-       // }
-
-
     }
 }
-
-
-//private object HasMany(Func<Cliente, ICollection<TTargetEntity>> func)
-// {
-//   throw new NotImplementedException();
-// }

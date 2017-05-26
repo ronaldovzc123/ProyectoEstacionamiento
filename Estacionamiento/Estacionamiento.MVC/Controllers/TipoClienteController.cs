@@ -14,7 +14,6 @@ namespace Estacionamiento.MVC.Controllers
 {
 	public class TipoClienteController : Controller
 	{
-		//private EstacionamientoBDContext db = new EstacionamientoBDContext();
 		private readonly IUnityOfWork _UnityOfWork;
 
 		public TipoClienteController()
@@ -31,7 +30,7 @@ namespace Estacionamiento.MVC.Controllers
 		public ActionResult Index()
 		{
 			//return View(db.TipoCliente.ToList());
-			return View(_UnityOfWork.Clientes.GetAll());
+			return View(_UnityOfWork.TiposCliente.GetAll());
 		}
 
 		// GET: TipoCliente/Details/5

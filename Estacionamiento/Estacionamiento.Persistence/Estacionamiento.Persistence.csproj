@@ -70,9 +70,9 @@
     <Compile Include="Entities.Configuration\ValetParkingConfiguration.cs" />
     <Compile Include="Entities.Configuration\VehiculoConfiguration.cs" />
     <Compile Include="EstacionamientoBDContext.cs" />
-    <Compile Include="Migrations\201705261827306_InitialModel.cs" />
-    <Compile Include="Migrations\201705261827306_InitialModel.Designer.cs">
-      <DependentUpon>201705261827306_InitialModel.cs</DependentUpon>
+    <Compile Include="Migrations\201705261928271_InitialModel.cs" />
+    <Compile Include="Migrations\201705261928271_InitialModel.Designer.cs">
+      <DependentUpon>201705261928271_InitialModel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -113,8 +113,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201705261827306_InitialModel.resx">
-      <DependentUpon>201705261827306_InitialModel.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201705261928271_InitialModel.resx">
+      <DependentUpon>201705261928271_InitialModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

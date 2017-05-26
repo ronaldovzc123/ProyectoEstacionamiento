@@ -102,10 +102,10 @@ namespace Estacionamiento.Persistence.Migrations
                 "dbo.TipoCliente",
                 c => new
                     {
-                        TipoClienteID = c.Int(nullable: false, identity: true),
+                        TipoClienteId = c.Int(nullable: false, identity: true),
                         Descripcion = c.String(),
                     })
-                .PrimaryKey(t => t.TipoClienteID);
+                .PrimaryKey(t => t.TipoClienteId);
             
             CreateTable(
                 "dbo.TipoPago",
